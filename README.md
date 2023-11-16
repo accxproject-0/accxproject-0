@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a student and I love programming! That's why I signed up for GitHub.
 <!--
 **accxproject-0/accxproject-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
